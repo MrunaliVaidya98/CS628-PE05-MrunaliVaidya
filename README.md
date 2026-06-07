@@ -1,4 +1,5 @@
-# CS628-PE05-MrunaliVaidya# Input
+# CS628-PE05-MrunaliVaidya
+# Input
 
 The Recipe Finder application accepts recipe information from users, including the recipe name, ingredients, cooking instructions, and cooking time. Users can also select an existing recipe from the recipe list to view its details, update the recipe, or delete it from the system. The user input is entered through React forms and sent to the backend API.
 
